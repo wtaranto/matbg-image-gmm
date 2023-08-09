@@ -1,2 +1,2 @@
 # matbg-image-gmm
-FIXME
+This project is currenltly being rebuilt to prioritize readable code.
